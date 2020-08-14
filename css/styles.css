@@ -43,3 +43,14 @@ ul {
         border-top: 6px solid orange;
         border-bottom: 8px solid black;
   }
+  @media screen and (min-width: 480px) {
+    body {
+        background-color: black;
+        color: white;
+    }
+}
+@media screen and (min-width: 768px) {
+  body {
+    background-color: yellowgreen;
+  }
+}
