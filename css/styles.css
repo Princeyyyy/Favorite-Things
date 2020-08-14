@@ -7,3 +7,25 @@ h2 {
     font-family: sans-serif;
     text-align: center;
 }
+p {
+    font-family: sans-serif;
+}
+ul {
+    line-height: 22px;
+}
+.line1 {
+    color: red;
+  }
+  #line2 {
+      color: red;
+  }
+.Buy {
+    color: saddlebrown;
+}
+  strong{
+      color: blueviolet;
+      text-align: center;
+  }
+  .danger {
+    background-color: rgb(114, 128, 250);
+  }
