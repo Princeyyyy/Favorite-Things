@@ -29,3 +29,17 @@ ul {
   .danger {
     background-color: rgb(114, 128, 250);
   }
+  img {
+      float: left;
+  }
+  .sidebar {
+      float: right;
+      width: 30%;
+      background-color: yellow;
+  }
+  .sidebar{
+        border-left: 2px solid red;
+        border-right: 4px solid blue;
+        border-top: 6px solid orange;
+        border-bottom: 8px solid black;
+  }
